@@ -35,6 +35,6 @@ int main() {
     cout << "Tax: $" << tax << endl;
     cout << "Tip: $" << tip << endl;
     cout << "Total: $" << total << endl;
-
+    cout << "Thank you for your purchase!" << endl;
     return 0;
 }
