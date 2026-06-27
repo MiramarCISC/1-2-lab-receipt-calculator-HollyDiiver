@@ -12,7 +12,7 @@ double calculateTax(double subtotal)
 
 double calculateTip(double subtotal, double tipPercent)
 {
-    return subtotal * (tipPercent / 100.0);
+    return subtotal * (tipPercent / 100.0); //Garrett again, easy to read!
 }
 
 double calculateTotal(double subtotal, double tax, double tip)
