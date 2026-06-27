@@ -37,6 +37,6 @@ int main()
     cout << "Tax: $" << tax << endl;
     cout << "Tip: $" << tip << endl;
     cout << "Total: $" << total << endl;
-
+ //Hey, Garrett Here. Something I did to add some extra stuff for credit, like a "Thank you" or something at the end.
     return 0;
 }
